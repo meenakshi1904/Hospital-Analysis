@@ -7,9 +7,9 @@ incorporate “Business and Data Intelligence” in order to regain their market
 
 **Tool Used:** MS Excel (CSV FILE),Power Bi ( reporting tool)
 
-**Task:**
-=> Create the metrics according to the metric list.
-=> Create a dashboard according to the mock-up provided by stakeholders.
+**Task:**                                                                                                                                                                                               
+=> Create the metrics according to the metric list.                                                                                                                                                           
+=> Create a dashboard according to the mock-up provided by stakeholders.                                                                                                                                
 => Create relevant insights that are not provided in the metric list/mock-up 
 dashboard.
 
@@ -23,18 +23,19 @@ dashboard.
 
 1. Quick Analysis:
 
-<img width="780" alt="image" src="https://github.com/meenakshi1904/Hospital-Analysis/assets/120337424/6607be15-6c44-4b81-a7af-f7bc1da7550b">
+<img width="809" alt="image" src="https://github.com/meenakshi1904/Hospital-Analysis/assets/120337424/49f341d6-71bc-4dd9-a287-7bf5395088d4">
+
 
 2. Top/Worst Hotel on basis of revenue,rating,capcity,cancellation rate:
    
+
+   <img width="797" alt="image" src="https://github.com/meenakshi1904/Hospital-Analysis/assets/120337424/8bae98e6-717a-4b99-9f31-94549a6de65a">
+
+
+4. Key Insight:
    
-<img width="772" alt="image" src="https://github.com/meenakshi1904/Hospital-Analysis/assets/120337424/ed94fc16-e60e-4450-829a-075f1f947718">
+<img width="791" alt="image" src="https://github.com/meenakshi1904/Hospital-Analysis/assets/120337424/95eb75c6-3be6-43c1-8d45-c3c395a3fef4">
 
-
-3. Key Insight:
-
-   
-   <img width="752" alt="image" src="https://github.com/meenakshi1904/Hospital-Analysis/assets/120337424/f5f3134a-c2b8-41d2-9f1f-b3f95f7b1ab2">
 
 
 **My Learning :**
