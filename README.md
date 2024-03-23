@@ -17,12 +17,21 @@ dashboard.
 **Architecture diagram :**
 
 
-Tool Used : MS Excel (CSV FILE),Power Bi ( reporting tool)
+Tool Used : Power Bi ( reporting tool)
+
+Input Data: MS Excel (CSV FILE)
+
+
+<img width="128" alt="image" src="https://github.com/meenakshi1904/Hospitality-Data-Analysis/assets/120337424/cf13d3da-11a0-4fbd-b377-e3636af713b3">
+
 
 Data Model:
 
 
-<img width="899" alt="image" src="https://github.com/meenakshi1904/Hospital-Analysis/assets/120337424/f53013cb-b1e9-4c26-8980-e4b2d7687dd3">
+<img width="893" alt="image" src="https://github.com/meenakshi1904/Hospitality-Data-Analysis/assets/120337424/664faaf1-d455-45c0-9823-07929fec85aa">
+
+
+
 
 
 **Data Flow :**
