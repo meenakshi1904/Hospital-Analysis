@@ -40,5 +40,8 @@ dashboard.
 **My Learning :**
 This is my first  complete Data Anlystic project , I found  each and every stage of processing is very important starting  from data understanding,Cleaning,Moding,DAX creation,Visualaztion.
 
-Use of bookmark,edit ineractions,insight genration gives another level of visualzation
+Use of bookmark,edit ineractions,insight genration gives another level of visualization
+
+It is first level of draft hope i will improve it  and will make better version of it
+
 
