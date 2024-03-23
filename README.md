@@ -25,6 +25,9 @@ Input Data: MS Excel (CSV FILE)
 <img width="128" alt="image" src="https://github.com/meenakshi1904/Hospitality-Data-Analysis/assets/120337424/cf13d3da-11a0-4fbd-b377-e3636af713b3">
 
 
+
+
+
 Data Model:
 
 
@@ -49,9 +52,9 @@ Data Model:
 
 
 2. Top/Worst Hotel on basis of revenue,rating,capcity,cancellation rate:
-   
 
-   <img width="797" alt="image" src="https://github.com/meenakshi1904/Hospital-Analysis/assets/120337424/8bae98e6-717a-4b99-9f31-94549a6de65a">
+
+<img width="895" alt="image" src="https://github.com/meenakshi1904/Hospitality-Data-Analysis/assets/120337424/53e8d941-f835-4175-b276-e063355a6c48">
 
 
 4. Key Insight:
