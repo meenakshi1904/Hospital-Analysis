@@ -27,7 +27,18 @@ dashboard.
 
 2. Top/Worst Hotel on basis of revenue,rating,capcity,cancellation rate:
    
+   
 <img width="772" alt="image" src="https://github.com/meenakshi1904/Hospital-Analysis/assets/120337424/ed94fc16-e60e-4450-829a-075f1f947718">
 
+
 3. Key Insight:
+
+   
    <img width="752" alt="image" src="https://github.com/meenakshi1904/Hospital-Analysis/assets/120337424/f5f3134a-c2b8-41d2-9f1f-b3f95f7b1ab2">
+
+
+**My Learning :**
+This is my first  complete Data Anlystic project , I found  each and every stage of processing is very important starting  from data understanding,Cleaning,Moding,DAX creation,Visualaztion.
+
+Use of bookmark,edit ineractions,insight genration gives another level of visualzation
+
